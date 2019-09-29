@@ -1,0 +1,57 @@
+    
+
+Activities Google Chrome + re |
+
+     
+
+SaaS iS a Sl Wee ee ee eed | cee)
+
+  
+ 
+
+01:37:39 left
+
+ 
+ 
+  
+   
+  
+  
+   
+  
+ 
+   
+  
+   
+
+   
+
+2 Questions Total Marks: 200.0
+
+Output format
+
+2 Programming Questions Print the minimum time required to eat the chocolates for each test case in a new line.
+
+1. Computer signal + 100.0 Constraints
+
+1<T<10
+2< X,A,B< 10?
+
+2. It's Chocolate Time + 100.0
+
+1<c<10%
+
+Sample Input % Sample Output %
+1 14
+
+22210
+
+Explanation
+
+After 14s, first child will eat 14/2 i.e., 7 chocolates, second child will eat 14/6 i.e., 2 chocolates and third child will eat 14/14 i.e., 1 chocolate. So,
+total chocolates will be 10.
+
+Note: Your code should be able to convert the sample input into the sample output. However, this is not enough to pass the challenge, because the code will be run
+
+on multiple test cases. Therefore, your code must solve this problem statement. Hie.
+

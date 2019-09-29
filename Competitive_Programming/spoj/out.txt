@@ -1,0 +1,28 @@
+_________   _2programm_requ                                  q     y             _        q          __d_
+__________  _'__o__________0_0                                         _>_______                                      _0     _ ^_0, 0__ __0
+_    _8'''_    _    _    _    _    _    __8'''_0__    _0___________________    ___0__,___._0__    ___   0      0___
+_    __   i hackerearch.camJchallenges/hiri ngJfalabella-javascript-hiring-201 9Jproblems/da08b2b09092aTc390da243bOecef906/                           _  _     __   _,  8,
+_________ 0______e__ _________ _____> ___,,,                     __ ______ ____                                       ______ 0    ___ 0___
+f                                                                                                                     _
+2Questions            TotaIMarks:200.O     Question 2                                                          Max.Marks100.OO  O
+__.
+__ng aues___ons                   It's Chocalate Time
+≡__
+. ,_,     1. computer signa_             + 1oo.o      There are infinite numbers of ch i Id ren in the l ine to eat chocolates- Each child takes specific time to eat a chocolate- The time
+ired for the Nth chi_d to eat a choco_ate is A _ time re uired b  the (N_1 )th chi_d + B The time re uired for the first chi_
+to eat a choclolate is X seconds. Print the number of seconds it wi Il requ ire to eat C chocolates.
+2 lt's chocolate Time            t 1_.O
+-                               Note :- A chocolate cannot be distributed between mo children and a chocolate cannot be considered in the count until it is
+completely eaten by that ch ild.
+lnput format
+_ The first l ine of the input contains an integer T, the number of test cases.
+_ Each of the next T l ines contains four space-sepa rated integers X, A, B and C denoting the time requ i red by the first
+ch i Id, the factor by wh ich time gets mu Itipl ied, the factor by wh ich time gets added and number of chocolates to be
+eaten.
+Output format
+Print the minimum time required to eat the chocolates for each test case in a new line.
+Constraints
+__w','..,;_.',.'__
+l<_T<_ lO
+a
+_  _n __n1n_
